@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Dilnur
+I’m an iOS Engineer and Design-minded Developer passionate about building elegant, performant, and user-focused mobile experiences with SwiftUI.
 
-I'm a **Mobile/XR Developer**, **Design Engineer**, and **AR/AI Product Builder** with deep expertise in **Framer**, **SwiftUI**, **Unity**, and **Flutter**—passionate about crafting pixel-perfect **UX/UI**, designing responsive **Framer websites**, and creating immersive experiences.
-
-With over **50 shipped mobile apps**, I bring ideas to life—from seamless signup flows and Framer-built sites to AI-powered photo generation and IoT-connected AR—blending user-centric design with cutting-edge tech like **spatial computing** and **Gen AI**.
+With a background spanning XR, AI, and interactive design, I bring a mix of engineering precision and product intuition. I’ve shipped 50+ mobile apps, from polished SwiftUI interfaces and intuitive user flows to AR experiences powered by RealityKit and Unity.
 
 ---
 
